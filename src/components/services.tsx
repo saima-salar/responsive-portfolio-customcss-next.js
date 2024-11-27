@@ -29,7 +29,7 @@ const services = () => {
 <div className="service-box">
     <div className="service-info">
         <h4> Graphic Design & Video Animation</h4>
-        <p>I create eye-catching visuals and animations that enhance brand communication, from logos to video content. Let's bring your ideas to life!</p>
+        <p>I create eye-catching visuals and animations that enhance brand communication, from logos to video content. Let us bring your ideas to life!</p>
     </div>
 </div>
 </div>
