@@ -7,7 +7,7 @@ const hero = () => {
 
     <section className="home" id="home">
     <div className="home-content">
-    <h1>Hi, It's <span>Saima</span></h1>
+    <h1>Hi, It&#39;s <span>Saima</span></h1>
     <h3 className="text-animation">I am a <span></span>
     </h3>
     <p>I build modern, responsive websites and applications that help businesses grow. With expertise in both front-end and back-end technologies, I ensure a smooth and effective digital experience. </p>
